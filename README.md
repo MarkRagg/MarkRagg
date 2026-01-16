@@ -15,6 +15,6 @@
 
 <br>
 
-[![MarkRagg's GitHub stats](https://github-readme-stats.vercel.app/api?username=markragg)](https://github.com/anuraghazra/github-readme-stats)
+[![MarkRagg's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRagg)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
