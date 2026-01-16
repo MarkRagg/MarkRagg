@@ -13,9 +13,5 @@
 
 ## ⚡️ Stats
 
-<br>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRagg&show_icons=true)
 
-
-<hr>
