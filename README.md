@@ -12,5 +12,5 @@
 </div>
 
 ## ⚡️ Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Mala1180&theme=tokyonight&hide_border=false&count_private=true)<br/>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mala1180&theme=tokyonight&hide_border=false&count_private=true&layout=compact)<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=MarkRagg&theme=tokyonight&hide_border=false&count_private=true)<br/>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRagg&theme=tokyonight&hide_border=false&count_private=true&layout=compact)<br/>
