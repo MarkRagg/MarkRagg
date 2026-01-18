@@ -12,12 +12,5 @@
 </div>
 
 ## ⚡️ Stats
-<div align="center">
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mala1180&theme=tokyonight&hide_border=false&count_private=true)<br/>
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mala1180&theme=tokyonight&hide_border=false)<br/>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mala1180&theme=tokyonight&hide_border=false&count_private=true&layout=compact)<br/>
-
-</div>
-
-
