@@ -13,3 +13,4 @@
 
 ## ⚡️ Stats
 ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=MarkRagg&show_icons=true&theme=tokyonight)
+https://github-profile-trophy.vercel.app/?username=MarkRagg&no-bg=true
