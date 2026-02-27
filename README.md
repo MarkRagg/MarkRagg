@@ -12,4 +12,4 @@
 </div>
 
 ## ⚡️ Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRagg&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=MarkRagg&show_icons=true&theme=tokyonight)
