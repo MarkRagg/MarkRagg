@@ -12,5 +12,4 @@
 </div>
 
 ## ⚡️ Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=MarkRagg&theme=tokyonight&hide_border=false&count_private=true)<br/>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRagg&theme=tokyonight&hide_border=false&count_private=true&layout=compact)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRagg&show_icons=true&theme=tokyonight)
